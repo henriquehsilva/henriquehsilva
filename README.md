@@ -25,6 +25,7 @@ I am an Full Stack Developer | Data Scientist at DATA H, currently living in An√
 You can reach me out on any channels below!
 
 - I have a Web page at [https://henriquesilva.dev](https://henriquesilva.dev)
+- I have a Blog at [https://hackaday.io/henriquesilva](https://hackaday.io/henriquesilva)
 - I have a [YouTube Channel](https://www.youtube.com/channel/UCYNDBp1J4rO4m0FPoTzJZYw?view_as)
 - You can also send me an [contato@henriquesilva.dev](mailto:contato@henriquesilva.dev)
 
