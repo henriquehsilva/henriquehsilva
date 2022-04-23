@@ -2,9 +2,9 @@
 
 [![Linkedin: Henrique Silva](https://img.shields.io/badge/-Henrique%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesilvadev/)](https://www.linkedin.com/in/henriquesilvadev/)
 
-Programmer, mathematician, and eternal learner in search of meaning in the world through sketches of calculation and lines of code.
+Programmer, and eternal learner in search of meaning in the world through and lines of code.
 
-I am an Full Stack Developer | Data Scientist at DATA H, currently living in Anápolis, Goiás, Brasil.
+I am an Full Stack Developer, currently living in Anápolis, Goiás, Brasil.
 
 ### ⚔️ Interests 🛡️
 - Math
