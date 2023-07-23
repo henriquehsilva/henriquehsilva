@@ -5,9 +5,11 @@
 
 [![Linkedin: Henrique Silva](https://img.shields.io/badge/-Henrique%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesilvadev/)](https://www.linkedin.com/in/henriquesilvadev/)
 
-I'm a self-taught developer who made the transition from business administration to web development 7+ years ago.
-Most of my experience comes from working as a full-stack developer (albeit a little more back-end oriented) in companies of different sizes and in various sectors such as education, healthcare, finance and Gov.
-I enjoy writing clean and maintainable code, solving complex problems and exchanging knowledge with my colleagues.
-My hobby is to write development related subjects on my blog https://henriquesilva.dev
+<p style="text-align: justify">
+ I'm a self-taught developer who made the transition from business administration to web development 7+ years ago.
+ Most of my experience comes from working as a full-stack developer (albeit a little more back-end oriented) in companies of different sizes and in various sectors such as education, healthcare, finance and Gov.
+ I enjoy writing clean and maintainable code, solving complex problems and exchanging knowledge with my colleagues.
+ My hobby is to write development related subjects on my blog https://henriquesilva.dev
+</p>
 
 ![Henrique Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquehsilva&show_icons=true&theme=meko)
