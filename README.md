@@ -5,30 +5,9 @@
 
 [![Linkedin: Henrique Silva](https://img.shields.io/badge/-Henrique%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesilvadev/)](https://www.linkedin.com/in/henriquesilvadev/)
 
-Programmer, and eternal learner in search of meaning in the world through and lines of code.
+I'm a self-taught developer who made the transition from business administration to web development 7+ years ago.
+Most of my experience comes from working as a full-stack developer (albeit a little more back-end oriented) in companies of different sizes and in various sectors such as education, healthcare, finance and Gov.
+I enjoy writing clean and maintainable code, solving complex problems and exchanging knowledge with my colleagues.
+My hobby is to write development related subjects on my blog https://henriquesilva.dev
 
-I am an Full Stack Developer, currently living in Anápolis, Goiás, Brasil.
-
-### ⚔️ Interests 🛡️
-- Math
-- Programming
-- Data Science
-- Artificial Intelligence
-- Cyber Security
-- Agile Culture
-
-### 🦄 Side project I'm working on:
-
-- Hipster Projects
-- Underground Education
-- Electronic Disaster Maker
-
-### 🦉 How to reach me:
-
-You can reach me out on any channels below!
-
-- I have a Web page at [https://henriquesilva.dev](https://henriquesilva.dev)
-- I have a Blog at [https://hackaday.io/henriquesilva](https://hackaday.io/henriquesilva)
-- I have a [YouTube Channel](https://www.youtube.com/channel/UCYNDBp1J4rO4m0FPoTzJZYw?view_as)
-- You can also send me an [contato@henriquesilva.dev](mailto:contato@henriquesilva.dev)
 
