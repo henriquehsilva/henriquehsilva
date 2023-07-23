@@ -10,4 +10,4 @@ Most of my experience comes from working as a full-stack developer (albeit a lit
 I enjoy writing clean and maintainable code, solving complex problems and exchanging knowledge with my colleagues.
 My hobby is to write development related subjects on my blog https://henriquesilva.dev
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
