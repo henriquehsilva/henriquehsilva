@@ -1,5 +1,6 @@
 
- ![Henrique Silva](https://media.licdn.com/dms/image/D4D16AQF8UZ4v8axkYw/profile-displaybackgroundimage-shrink_350_1400/0/1690122692512?e=1695859200&v=beta&t=VPw8H9w5Z_lhyi5tdFniI_dGT2COm-SpGzly0vHqj1M)
+ ![Henrique Silva](https://henriquesilva.dev/card_bio.mp4)
+
 
  
 <a href = "mailto:miguel_reis08@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
