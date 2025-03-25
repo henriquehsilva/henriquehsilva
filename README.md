@@ -1,16 +1,10 @@
-
- [![Henrique Silva](https://henriquesilva.dev/card_movie.png)](https://henriquesilva.dev/bot.html)
-
-
  
 <a href = "mailto:miguel_reis08@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 [![Linkedin: Henrique Silva](https://img.shields.io/badge/-Henrique%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesilvadev/)](https://www.linkedin.com/in/henriquesilvadev/)
 
 <p style="text-align: justify">
- I'm a self-taught developer who made the transition from business administration to web development 7+ years ago.
- Most of my experience comes from working as a full-stack developer (albeit a little more back-end oriented) in companies of different sizes and in various sectors such as education, healthcare, finance and Gov.
- I enjoy writing clean and maintainable code, solving complex problems and exchanging knowledge with my colleagues.
- My hobby is to write development related subjects on my blog https://henriquesilva.dev
+ Sou desenvolvedor com anos de experiência em tecnologia e agora estou migrando minha atuação para a área de interfaces inteligentes e experiências conversacionais. Tenho me aprofundado no design e desenvolvimento de chatbots, voicebots e soluções integradas com inteligência artificial. Com um background sólido em desenvolvimento full stack, estou direcionando minha expertise para criar experiências conversacionais que unam tecnologia, empatia e eficiência, sempre focando em gerar valor real para os negócios. 
+Site: https://henriquesilva.dev
 </p>
 
 ![Henrique Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquehsilva&show_icons=true&theme=meko)
