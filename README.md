@@ -4,7 +4,6 @@
 
 <p style="text-align: justify">
  Sou desenvolvedor com anos de experiência em tecnologia e agora estou migrando minha atuação para a área de interfaces inteligentes e experiências conversacionais. Tenho me aprofundado no design e desenvolvimento de chatbots, voicebots e soluções integradas com inteligência artificial. Com um background sólido em desenvolvimento full stack, estou direcionando minha expertise para criar experiências conversacionais que unam tecnologia, empatia e eficiência, sempre focando em gerar valor real para os negócios. 
-Site: https://henriquesilva.dev
 </p>
 
 ![Henrique Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquehsilva&show_icons=true&theme=meko)
