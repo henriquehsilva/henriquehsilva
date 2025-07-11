@@ -3,7 +3,15 @@
 [![Linkedin: Henrique Silva](https://img.shields.io/badge/-Henrique%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesilvadev/)](https://www.linkedin.com/in/henriquesilvadev/)
 
 <p style="text-align: justify">
- Sou desenvolvedor com anos de experiência em tecnologia e agora estou migrando minha atuação para a área de interfaces inteligentes e experiências conversacionais. Tenho me aprofundado no design e desenvolvimento de chatbots, voicebots e soluções integradas com inteligência artificial. Com um background sólido em desenvolvimento full stack, estou direcionando minha expertise para criar experiências conversacionais que unam tecnologia, empatia e eficiência, sempre focando em gerar valor real para os negócios. 
+ 👋 Sou o Henrique, também conhecido como Tio Rick — desenvolvedor sênior, empreendedor social e pensador inquieto sobre o papel da tecnologia no mundo.
+
+🎯 Como engenheiro de software, atuo no desenvolvimento de soluções escaláveis e orientadas a produto, com foco em impacto real e experiência do usuário. Tenho vivência em arquitetura de sistemas, integrações complexas e boas práticas de engenharia, sempre com uma abordagem fullstack e colaborativa.
+
+💡 Acredito que tecnologia com propósito é uma das ferramentas mais poderosas para transformar vidas. Por isso, além da rotina técnica, me dedico a iniciativas de inovação social, como o QR do Bem e o Code Lab Comunitário, que conectam pessoas, oportunidades e cidadania digital.
+
+🚀 Atuo com metodologias ágeis, cultura de dados e times multidisciplinares — sempre buscando aprender, compartilhar e construir produtos que façam a diferença.
+
+🌍 Estou aqui para trocar ideias, colaborar em projetos inovadores e contribuir para um futuro mais inclusivo e sustentável. Vamos juntos criar coisas que se importam com pessoas?
 </p>
 
 ![Henrique Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquehsilva&show_icons=true&theme=meko)
