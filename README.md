@@ -13,10 +13,6 @@
 
 🌍 Estou aqui para trocar ideias, colaborar em projetos inovadores e contribuir para um futuro mais inclusivo e sustentável. Vamos juntos criar coisas que se importam com pessoas?
 </p>
-
-![Henrique Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquehsilva&show_icons=true&theme=meko)
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henriquehsilva&layout=compact&langs_count=7&theme=meko"/>
-
   
 <div style="display: inline_block"><br>
   <img align="center" alt="MReis-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
