@@ -3,15 +3,13 @@
 [![Linkedin: Henrique Silva](https://img.shields.io/badge/-Henrique%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesilvadev/)](https://www.linkedin.com/in/henriquesilvadev/)
 
 <p style="text-align: justify">
- 👋 Sou o Henrique, também conhecido como Tio Rick — desenvolvedor sênior, empreendedor social e pensador inquieto sobre o papel da tecnologia no mundo.
+Aprendi a programar de forma autodidata, quebrando código e reconstruindo desde cedo.
+Hoje estudo Matemática Aplicada e Computacional (UFG) e Inteligência Artificial (FIAP) para elevar o nível do que construo.
 
-🎯 Como engenheiro de software, atuo no desenvolvimento de soluções escaláveis e orientadas a produto, com foco em impacto real e experiência do usuário. Tenho vivência em arquitetura de sistemas, integrações complexas e boas práticas de engenharia, sempre com uma abordagem fullstack e colaborativa.
+Gosto de código limpo, soluções diretas e arquiteturas que resistem ao tempo.
+Sempre explorando novas tecnologias sem abandonar as raízes.
 
-💡 Acredito que tecnologia com propósito é uma das ferramentas mais poderosas para transformar vidas. Por isso, além da rotina técnica, me dedico a iniciativas de inovação social, como o QR do Bem e o Code Lab Comunitário, que conectam pessoas, oportunidades e cidadania digital.
-
-🚀 Atuo com metodologias ágeis, cultura de dados e times multidisciplinares — sempre buscando aprender, compartilhar e construir produtos que façam a diferença.
-
-🌍 Estou aqui para trocar ideias, colaborar em projetos inovadores e contribuir para um futuro mais inclusivo e sustentável. Vamos juntos criar coisas que se importam com pessoas?
+“Build first. Fix better.”
 </p>
   
 <div style="display: inline_block"><br>
