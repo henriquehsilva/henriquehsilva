@@ -3,7 +3,9 @@
 [![Linkedin: Henrique Silva](https://img.shields.io/badge/-Henrique%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesilvadev/)](https://www.linkedin.com/in/henriquesilvadev/)
 
 <p style="text-align: justify">
-Programador autodidata de coração — aprendi desmontando as coisas e reconstruindo-as do zero. Hoje continuo estudando para elevar o nível dos sistemas e produtos que construo. Valorizo código limpo, soluções diretas e arquitetura feita para durar — sempre explorando novas tecnologias sem perder de vista os fundamentos sólidos.
+Self-taught programmer at heart — I learned by taking things apart and rebuilding them from scratch. Today I keep studying to push the systems and products I build to a higher level.
+
+I value clean code, straightforward solutions, and architecture built to last — always exploring new technologies without losing sight of solid fundamentals.
 
 "Build first. Fix better."
 </p>
