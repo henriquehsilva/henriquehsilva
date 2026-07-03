@@ -3,11 +3,9 @@
 [![Linkedin: Henrique Silva](https://img.shields.io/badge/-Henrique%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesilvadev/)](https://www.linkedin.com/in/henriquesilvadev/)
 
 <p style="text-align: justify">
-I learned to program as a self-taught developer, breaking things apart and rebuilding them from an early age. Today, I study Applied and Computational Mathematics (UFG) and Artificial Intelligence (FIAP) to elevate the level of the systems and products I create.
+Programador autodidata de coração — aprendi desmontando as coisas e reconstruindo-as do zero. Hoje continuo estudando para elevar o nível dos sistemas e produtos que construo. Valorizo código limpo, soluções diretas e arquitetura feita para durar — sempre explorando novas tecnologias sem perder de vista os fundamentos sólidos.
 
-I appreciate clean code, straightforward solutions, and architectures built to stand the test of time—always exploring new technologies without losing sight of solid fundamentals.
-
-“Build first. Fix better.”
+"Build first. Fix better."
 </p>
   
 <div style="display: inline_block"><br>
